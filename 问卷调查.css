@@ -1,0 +1,186 @@
+.top
+		{
+			width:100%;
+			height:80px;
+			background-color:khaki;
+			position:relative;
+			margin-left: -9px;
+			margin-top:-10px;
+			margin-right: 0px;
+		}
+		.div1{
+			width:100px;
+			height:80px;
+			text-align: center;
+			padding-top:20px;
+			padding-left: 30px;
+			position: absolute;
+		}
+		.div1 font{
+			color:#FF6800;
+			font-size:xx-large;
+			font-weight:bold;
+			font-family:正楷;
+		}
+.navigator{
+			width:910px;
+			height:80px;
+			margin-left: 280px;
+			text-align:center;
+			display:flex;
+			justify-content:space-around;
+		    font-size:large;
+		}
+		a{
+			width:130px;
+			height:30px;
+			text-decoration: none;
+			margin-top: 25px;
+			border-radius:15px;
+		}
+		a:hover 
+		{
+			background-color:#FF6800 ;
+		} 
+body{
+    color: #1d2d45;
+}
+
+form{
+    width:847px;
+    height:809px;  
+    font-family: "Microsoft Yahei";
+    margin:auto;
+}
+
+img{
+    height:50px;
+    float:left;
+}
+
+h1{
+    text-align: left;
+    margin-left: 50px;
+    font-size: 22px;
+    font-family: "Microsoft Yahei";
+    font-weight: normal;
+    color: #666;
+    float:left;
+}
+
+td#one{
+    width:845px;
+    height:43px; 
+    border-bottom: 2px solid #e33b3d;   
+    text-align: center;
+}
+
+td#two{
+    position: relative;
+    top:10px;
+    width:845px;
+    height:55px;    
+     font-size: 12px;
+     text-indent: 2em;  
+}
+
+.A{
+    margin-bottom:10px;
+    margin-top:15px;
+    width:845px;
+    height:14px;
+    font-size: 16px;
+    line-height: 120%;
+    text-align: left;
+    font-weight:bold;
+    position: relative;
+    padding-bottom: 1px;
+}
+
+.table1{
+    width:845px;
+    height:167px; 
+    border: 1px solid #cce8ff;
+    padding: 1px;
+}
+
+td.wz{
+    float:left;
+    width:820px;
+      
+    font-family: verdana;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #EEF6FF;
+    text-align: left;
+    padding: 6px 10px;
+}
+
+
+
+ul li{
+    list-style: none;
+    font-size:12px;
+}
+
+.table2{
+    margin-top:10px;
+    width:845px;
+    height:174px; 
+    border: 1px solid #cce8ff;
+    padding: 1px;
+}
+
+textarea{
+    position: relative;
+    left:50px;
+    top:-10px;
+}
+
+
+
+.paraghthree{
+    width:845px;
+    height:167px; 
+    border: 1px solid #cce8ff;
+    padding: 1px;
+}
+
+td.text{
+    position: relative;
+    top:-10px;
+   line-height:2em;
+    font-size:12px;
+}
+
+.kong{
+    width:169px;
+    height:15px;
+}
+
+.paraghfour{
+    width:845px;
+    height:31px; 
+    border: 1px solid #cce8ff;
+    margin-top:10px;
+    background-color: #EEF6FF;
+}
+
+
+.submit{
+    width:54.38px;
+    height:30.53px; 
+    text-align: center;
+   font-size:12px;
+   font-weight:bold;
+    display:block;
+    margin:0 auto;
+    border-radius:8px;
+    border: 1px solid #aed0ea;
+   background:#d7ebf9  url(http://surveys.jd.com/upload/templates/360buy3/images/ui-bg_glass_80_d7ebf9_1x400.png);
+}
+
+
+
+
+
